@@ -21,12 +21,12 @@ Jump over the buildings and columns, slide under the ceilings, and don't let the
 ## How to Play?
 ### Playing
 On the main menu, choose single player mode, then choose play, the game will immediately start.<br/><br/>
-![Main Menu](Screen Shot 2021-12-24 at 22.12.50.png)<br/><br/>
+![Main Menu](Screen%Shot%2021-12-24 at 22.12.50.png)<br/><br/>
 You can see the coins collected and the score on top-right of the window.
 Use UP in order to jump and DOWN to slide.
 W will active wings so you can fly.
 S for shiled, you can go through obstacles.<br/><br/>
-![Game View](https://github.com/Deniz-Tuna-Onguner/EscApe/blob/main/Screen%20Shot%202021-12-24%20at%2022.20.17.png)<br/><br/>
+![Game View](Screen%20Shot%202021-12-24%20at%2022.20.17.png)<br/><br/>
 If you die or be catched, don't worry, come back with extra file.<br/><br/>
 ![End Game Menu](https://github.com/Deniz-Tuna-Onguner/EscApe/blob/main/Screen%20Shot%202021-12-24%20at%2022.20.31.png)<br/><br/>
 ### Shopping
